@@ -1,4 +1,7 @@
-# Netflix-Landing-Page-1
+# Netflix-Landing-Page
+
+Deployed Link: https://clever-valkyrie-ce68d3.netlify.app/
+
 I have made the Netflix.com landing page. I have taken the reference from a youtube channel called Traversy Media.
 
 Tech Stack Used: HTML, CSS and Vanilla JS.
